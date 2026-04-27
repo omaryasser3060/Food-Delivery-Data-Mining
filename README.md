@@ -70,10 +70,10 @@ Helwan National University
 
 | # | Name (English)                     | ID        |
 |--|----------------------------------|----------|
-| 1 | Omar Yasser                      | 931250621 |
-| 2 | Youssef Atef Tayeh              | 931230366 |
+| 1 | Omar Yasser                     | 931250621 |
+| 2 | Omar Mostafa Abdsttar Ali       | 931250634 |
 | 3 | Ayman Nageh Mohamed Mohamed     | 931230074 |
-| 4 | Omar Mostafa Abdsttar Ali       | 931250634 |
+| 4 | Youssef Atef Tayeh              | 931230366|
 | 5 | Ismail Ibrahim Ismail           | 931230063 |
 
 ---
